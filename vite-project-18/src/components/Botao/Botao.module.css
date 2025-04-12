@@ -1,0 +1,17 @@
+.Botao {
+    background: green;
+    border: 1px solid black;
+    padding: 0.25rem 0.75rem;
+    color: white;
+    cursor: pointer;    
+}
+
+.Botao[tipo="primario"] {
+    background: green;
+
+}
+
+.Botao[tipo="secundario"] {
+    background: rgb(128, 0, 0);
+
+}

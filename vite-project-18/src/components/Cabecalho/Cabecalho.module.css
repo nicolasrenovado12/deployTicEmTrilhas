@@ -1,0 +1,22 @@
+.Cabecalho {
+    background-color: black;
+    color:gray;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Cabecalho a {
+    text-decoration: none;
+    color: rgb(208, 208, 208);
+}
+
+.Cabecalho h1 {
+    font-size: 1.3rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.Cabecalho h1 span{
+    color: red;
+}

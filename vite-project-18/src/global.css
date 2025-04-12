@@ -1,0 +1,16 @@
+:root {
+    --cinza: #EBEBEC;
+    --preto: #272727;
+    --rosa: #F86197;
+    --verde: #36859F; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
